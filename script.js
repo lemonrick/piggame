@@ -93,7 +93,7 @@ class PigGame {
     rolling(){
         document.querySelector(".dice").classList.remove("hidden");
         let number = Math.floor(Math.random() * 6) + 1;
-        document.querySelector(".dice").src = `dice-${number}.png`;
+        document.querySelector(".dice").src = `dice/dice-${number}.png`;
 
         if (number === 1) {
             this.resetCurrentScore();
