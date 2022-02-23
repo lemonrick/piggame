@@ -9,7 +9,7 @@ From: https://en.wikipedia.org/wiki/Pig_(dice_game)
 Demo: https://www.mcode.sk/projekty/piggame/
 
 <p>
-<img src="https://www.mcode.sk/assets/img/git/61.png" width="350"/>
+<img src="img/image60.png" width="350"/>
 &nbsp;
-<img src="https://www.mcode.sk/assets/img/git/62.png" width="350"/>
+<img src="img/image64.png" width="350"/>
 </p>
