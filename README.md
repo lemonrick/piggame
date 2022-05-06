@@ -6,7 +6,7 @@ If the player rolls a 1, they score nothing and it becomes the next player's tur
 
 From: https://en.wikipedia.org/wiki/Pig_(dice_game)
 
-Demo: https://www.mcode.sk/projekty/piggame/
+<!-- Demo: https://www.mcode.sk/projekty/piggame/ -->
 
 <p>
 <img src="img/image60.png" width="350"/>
